@@ -38,3 +38,11 @@ Evolution: Present but reactive – The team had to make further fixes after the
 
 Biggest Failure
 I think the biggest failure was the lack of proper specification at the beginning. The team never created written requirements and did not properly involve the warehouse staff. Because of this, the developers misunderstood how the warehouse actually worked. This caused problems later, including the stock-transfer screens not matching the real process. The missing requirements also made the change for the second warehouse harder to handle. Overall, a better specification at the start could have prevented several of the problems that appeared later.
+
+## Researching a Software Failure
+
+Ariane 5 Flight 501 failed on 4 June 1996, around 37 seconds after launch. The failure was caused by software in the rocket's inertial reference system. The Ariane 5 reused software from the Ariane 4, but the Ariane 5 had a different flight path and produced higher horizontal velocity values. This caused a value stored as a 64-bit floating-point number to be converted into a 16-bit signed integer. The value was too large, causing an integer overflow and triggering a hardware exception. This caused both inertial reference systems to shut down. The flight computer then interpreted diagnostic data as flight data, causing the rocket to veer off course and eventually self-destruct. The failure resulted in the loss of more than $370 million.
+
+This relates to evolving requirements, because software designed for Ariane 4 was reused in Ariane 5 without accounting for the differences in their flight paths and expected values.
+
+Source: https://en.wikipedia.org/wiki/Ariane_flight_V88
