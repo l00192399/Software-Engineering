@@ -46,3 +46,9 @@ Ariane 5 Flight 501 failed on 4 June 1996, around 37 seconds after launch. The f
 This relates to evolving requirements, because software designed for Ariane 4 was reused in Ariane 5 without accounting for the differences in their flight paths and expected values.
 
 Source: https://en.wikipedia.org/wiki/Ariane_flight_V88
+
+## Is There Still a Software Crisis?
+
+One additional point I found from the 1968 NATO conference was that testing was not seen as a simple way of proving that software was correct. The conference discussions recognised that testing could find faults, but it was extremely difficult to test every possible situation in a complex system. This led to the idea of combining testing with other approaches such as reviews, modular design and reasoning about how programs behave. 
+
+I think a version of the software crisis still exists today. Software has improved massively since the 1960s, but systems are also much larger and more complicated. The Ariane 5 failure is a good example. Software from Ariane 4 was reused for Ariane 5, but a different flight path caused an integer overflow that eventually led to the rocket being destroyed. To me, this shows that problems with complexity, testing and changing requirements still exist today, even though the technology is much more advanced.
