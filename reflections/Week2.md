@@ -44,7 +44,7 @@ A classmate could choose RUP because it also provides a structured process with 
 Did people choose differently?
 Yes. People may choose different models because they can give different importance to factors such as safety, documentation, flexibility, or customer feedback. 
 
-##Task 3 — Portfolio Entry
+## Task 3 — Portfolio Entry
 
 Process Model: Incremental
 
