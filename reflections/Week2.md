@@ -44,4 +44,8 @@ A classmate could choose RUP because it also provides a structured process with 
 Did people choose differently?
 Yes. People may choose different models because they can give different importance to factors such as safety, documentation, flexibility, or customer feedback. 
 
+##Task 3 — Portfolio Entry
 
+Process Model: Incremental
+
+For my hypothetical project, I would choose the Incremental model for a student study-planning app. The app could be developed in small parts instead of building everything at once. The first version could include basic features such as creating modules and adding tasks. Later increments could add reminders, progress tracking and a timetable. This would allow users to try the early version and provide feedback before the remaining features are developed. It would also make it easier to identify problems early and make changes to later increments. The Incremental model would be suitable because the requirements could change as students use the application and suggest improvements. It also allows a usable version of the system to be available early rather than waiting until the entire project is finished. 
