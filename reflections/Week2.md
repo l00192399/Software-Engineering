@@ -25,23 +25,23 @@ Features can be developed and released in smaller increments.
 Risk: Requirements could keep changing and cause the project scope to expand. 
 
 
-Task 2 — Share and Challenge
+## Task 2 — Share and Challenge
 
 Project: Aegis Flight-Control Software
 
 My choice: Waterfall
-
 Why: The requirements are stable, the safety risk is very high, and the project needs extensive documentation and traceability.
-
 
 Question from a classmate:
 “Why not use Incremental instead?”
 
 My response:
-“Incremental could allow the software to be developed in smaller parts, but Waterfall fits better because the requirements are already clearly defined and the project requires detailed documentation and testing for certification.”
+Incremental could allow the software to be developed in smaller parts, but Waterfall fits better because the requirements are already clearly defined and the project requires detailed documentation and testing for certification.
 
 Alternative suggestion:
 A classmate could choose RUP because it also provides a structured process with strong documentation and risk management.
 
 Did people choose differently?
 Yes. People may choose different models because they can give different importance to factors such as safety, documentation, flexibility, or customer feedback. 
+
+
